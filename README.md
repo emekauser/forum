@@ -1,3 +1,3 @@
 # README
 
-This is a Simple forum API built with Rails
+This is a Simple forum API built with Rails with  TDD
